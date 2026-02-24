@@ -1,3 +1,2 @@
 # pose_graph_topologies
-Predefined bidirectional graph topologies for human and animal 2D pose estimation datasets.
-The code is under preparation and will be made publicly available.
+We release the core modules related to graph construction and dataset-specific topology definitions. The complete engineering framework is under active preparation and will be released subsequently.
